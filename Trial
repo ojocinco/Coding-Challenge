@@ -9,4 +9,9 @@ public class MarkupTax {
       final double TAX = .06; 
       double item, tax, markup; 
       
-      S
+      System.out.println("The tax of the item is: " + tax)
+      System.out.println("The markup price is: " + markup)
+      System.out.print("the final price of the item is: "); 
+      System.out.println(item + tax + markup); 
+      
+    }
