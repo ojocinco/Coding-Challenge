@@ -1,0 +1,12 @@
+package Lesson; 
+import java.util.*; 
+public class MarkupTax {
+  
+  static Scanner console - new Scanner(System.in); 
+    public static void main(String[] args) { 
+    
+      final double MARKUP = 0.10; 
+      final double TAX = .06; 
+      double item, tax, markup; 
+      
+      S
